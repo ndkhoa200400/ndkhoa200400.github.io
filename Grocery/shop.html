@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+      integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+
+    <title>Shop</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-sm navbar-light bg-light fixed-top">
+      <div class="container-fluid mx-md-5">
+        <a href="index.html" class="navbar-brand">
+          <i class="fas fa-shopping-basket"></i>
+          <span>Groco</span>
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarToggler"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div
+          class="collapse navbar-collapse justify-content-center"
+          id="navbarToggler"
+        >
+          <ul class="navbar-nav mt-2 mt-lg-0">
+            <li class="nav-item">
+              <a href="index.html" class="nav-link">Home</a>
+            </li>
+            <li class="nav-item active">
+              <a href="shop.html" class="nav-link">Shop</a>
+            </li>
+            <li class="nav-item">
+              <a href="about.html" class="nav-link">About</a>
+            </li>
+            <li class="nav-item">
+              <a href="review.html" class="nav-link">Review</a>
+            </li>
+            <li class="nav-item">
+              <a href="blog.html" class="nav-link">Blog</a>
+            </li>
+            <li class="nav-item">
+              <a href="contact.html" class="nav-link">Contact</a>
+            </li>
+          </ul>
+        </div>
+        <ul class="nav justify-content-around">
+          <li class="nav-item dropdown">
+            <a role="button" class="btn-click" data-toggle="dropdown">
+              <i class="fas fa-search fa-2x"></i>
+            </a>
+            <div class="dropdown-menu search-box">
+              <div class="d-flex align-items-center px-3 py-1">
+                <input class="form-control search" type="search">
+                <a href="#" role="search" class="fas fa-search text-muted"></a>
+              </div>
+             
+            </div>
+          </li>
+          <li class="nav-item mx-3 dropdown">
+            <a role="button" class="btn-click" data-toggle="dropdown">
+              <i class="fas fa-shopping-cart fa-2x"></i>
+            </a>
+            <div class="dropdown-menu dropdown-menu-right cart">
+              <div clas="cart-list">
+                <div
+                  class="
+                    d-flex
+                    align-items-center
+                    justify-content-around
+                    cart-item
+                  "
+                >
+                  <div class="cart-img">
+                    <img src="/image/cart-1.jpg" alt="" class="img-fluid" />
+                  </div>
+                  <div>
+                    <h5>Organic Food</h5>
+                    <div class="text-muted">1 X $18.99</div>
+                  </div>
+                  <i class="fas fa-times"></i>
+                </div>
+
+                <div
+                  class="
+                    d-flex
+                    align-items-center
+                    justify-content-around
+                    cart-item
+                  "
+                >
+                  <div class="cart-img">
+                    <img src="/image/cart-2.jpg" alt="" class="img-fluid" />
+                  </div>
+                  <div>
+                    <h5>Organic Food</h5>
+                    <div class="text-muted">1 X $18.99</div>
+                  </div>
+                  <i class="fas fa-times"></i>
+                </div>
+
+                <div
+                  class="
+                    d-flex
+                    align-items-center
+                    justify-content-around
+                    cart-item
+                  "
+                >
+                  <div class="cart-img">
+                    <img src="/image/cart-3.jpg" alt="" class="img-fluid" />
+                  </div>
+                  <div>
+                    <h5>Organic Food</h5>
+                    <div class="text-muted">1 X $18.99</div>
+                  </div>
+                  <i class="fas fa-times"></i>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a role="button" class="btn-click" data-toggle="dropdown">
+              <i class="fas fa-user fa-2x"></i>
+            </a>
+            <div class="dropdown-menu dropdown-menu-right login-form">
+              <form class="px-4 py-3">
+                <h3>Login Form</h3>
+                <div class="form-group">
+                  <input type="email" class="form-control" />
+                </div>
+                <div class="form-group">
+                  <input type="password" class="form-control" />
+                </div>
+
+                <div class="form-check">
+                  <input
+                    type="checkbox"
+                    class="form-check-input"
+                    id="dropdownCheck2"
+                  />
+                  <label class="form-check-label" for="dropdownCheck2">
+                    Remember me
+                  </label>
+                </div>
+                <input
+                  type="submit"
+                  value="LOGIN NOW"
+                  class="btn btn-success btn-block my-2"
+                />
+                <div class="text-muted">
+                  Forget Password?
+                  <a href="#" class="text-success">Click here</a>
+                </div>
+                <div class="text-muted">
+                  Don't Have An Account?
+                  <a href="#" class="text-success">Click here</a>
+                </div>
+              </form>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div id="banner">
+      <div class="text-center">
+        <h1>Our Shop</h1>
+      </div>
+    </div>
+
+    <section id="category" class="px-10">
+      <div class="container-fluid">
+        <div class="heading d-flex justify-content-between align-items-center">
+          <h2>Our <span class="text-success">Category</span></h2>
+          <a href="#" class="btn btn-link">View All >></a>
+        </div>
+        <hr />
+
+        <div
+          class="
+            category-list
+            mt-5
+            d-flex
+            justify-content-around
+            text-center
+            align-items-center
+            flex-wrap
+          "
+        >
+          <div class="category-item text-center">
+            <img src="image/cat-1.png" alt="" />
+            <h5 class="text-muted">Fresh Fruits</h5>
+          </div>
+          <div class="category-item text-center">
+            <img src="image/cat-2.png" alt="" />
+            <h5 class="text-muted">Vegetable</h5>
+          </div>
+          <div class="category-item text-center">
+            <img src="image/cat-3.png" alt="" />
+            <h5 class="text-muted">Organic Spcies</h5>
+          </div>
+          <div class="category-item text-center">
+            <img src="image/cat-4.png" alt="" />
+            <h5 class="text-muted">Fresh Meat</h5>
+          </div>
+          <div class="category-item text-center">
+            <img src="image/cat-5.png" alt="" />
+            <h5 class="text-muted">Organic Wheet</h5>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="products">
+      <div class="heading d-flex justify-content-between align-items-center">
+        <h2>Our <span class="text-success">Products</span></h2>
+        <a href="#" class="btn btn-link">View All >></a>
+      </div>
+      <hr />
+
+      <div class="product-list row">
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+          <div class="card product-item">
+            <div
+              class="
+                icons
+                d-flex
+                justify-content-center
+                align-items-center
+                w-100
+                h-100
+              "
+            >
+              <a href="#" class="fas fa-shopping-cart"></a>
+              <a href="#" class="fas fa-heart"></a>
+              <a href="#" class="fas fa-eye"></a>
+            </div>
+            <img src="./image/product-1.jpg" alt="" class="card-img-top" />
+            <div class="card-body text-center">
+              <h4>Organic Food</h4>
+              <div class="price py-1">$18.99</div>
+              <div class="stars text-warning">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+          <div class="card product-item">
+            <div
+              class="
+                icons
+                d-flex
+                justify-content-center
+                align-items-center
+                w-100
+                h-100
+              "
+            >
+              <a href="#" class="fas fa-shopping-cart"></a>
+              <a href="#" class="fas fa-heart"></a>
+              <a href="#" class="fas fa-eye"></a>
+            </div>
+            <img src="./image/product-2.jpg" alt="" class="card-img-top" />
+            <div class="card-body text-center">
+              <h4>Organic Food</h4>
+              <div class="price py-1">$18.99</div>
+              <div class="stars text-warning">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+          <div class="card product-item">
+            <div
+              class="
+                icons
+                d-flex
+                justify-content-center
+                align-items-center
+                w-100
+                h-100
+              "
+            >
+              <a href="#" class="fas fa-shopping-cart"></a>
+              <a href="#" class="fas fa-heart"></a>
+              <a href="#" class="fas fa-eye"></a>
+            </div>
+            <img src="./image/product-3.jpg" alt="" class="card-img-top" />
+            <div class="card-body text-center">
+              <h4>Organic Food</h4>
+              <div class="price py-1">$18.99</div>
+              <div class="stars text-warning">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+          <div class="card product-item">
+            <div
+              class="
+                icons
+                d-flex
+                justify-content-center
+                align-items-center
+                w-100
+                h-100
+              "
+            >
+              <a href="#" class="fas fa-shopping-cart"></a>
+              <a href="#" class="fas fa-heart"></a>
+              <a href="#" class="fas fa-eye"></a>
+            </div>
+            <img src="./image/product-4.jpg" alt="" class="card-img-top" />
+            <div class="card-body text-center">
+              <h4>Organic Food</h4>
+              <div class="price py-1">$18.99</div>
+              <div class="stars text-warning">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+          <div class="card product-item">
+            <div
+              class="
+                icons
+                d-flex
+                justify-content-center
+                align-items-center
+                w-100
+                h-100
+              "
+            >
+              <a href="#" class="fas fa-shopping-cart"></a>
+              <a href="#" class="fas fa-heart"></a>
+              <a href="#" class="fas fa-eye"></a>
+            </div>
+            <img src="./image/product-5.jpg" alt="" class="card-img-top" />
+            <div class="card-body text-center">
+              <h4>Organic Food</h4>
+              <div class="price py-1">$18.99</div>
+              <div class="stars text-warning">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+          <div class="card product-item">
+            <div
+              class="
+                icons
+                d-flex
+                justify-content-center
+                align-items-center
+                w-100
+                h-100
+              "
+            >
+              <a href="#" class="fas fa-shopping-cart"></a>
+              <a href="#" class="fas fa-heart"></a>
+              <a href="#" class="fas fa-eye"></a>
+            </div>
+            <img src="./image/product-6.jpg" alt="" class="card-img-top" />
+            <div class="card-body text-center">
+              <h4>Organic Food</h4>
+              <div class="price py-1">$18.99</div>
+              <div class="stars text-warning">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+          <div class="card product-item">
+            <div
+              class="
+                icons
+                d-flex
+                justify-content-center
+                align-items-center
+                w-100
+                h-100
+              "
+            >
+              <a href="#" class="fas fa-shopping-cart"></a>
+              <a href="#" class="fas fa-heart"></a>
+              <a href="#" class="fas fa-eye"></a>
+            </div>
+            <img src="./image/product-7.jpg" alt="" class="card-img-top" />
+            <div class="card-body text-center">
+              <h4>Organic Food</h4>
+              <div class="price py-1">$18.99</div>
+              <div class="stars text-warning">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+          <div class="card product-item">
+            <div
+              class="
+                icons
+                d-flex
+                justify-content-center
+                align-items-center
+                w-100
+                h-100
+              "
+            >
+              <a href="#" class="fas fa-shopping-cart"></a>
+              <a href="#" class="fas fa-heart"></a>
+              <a href="#" class="fas fa-eye"></a>
+            </div>
+            <img src="./image/product-8.jpg" alt="" class="card-img-top" />
+            <div class="card-body text-center">
+              <h4>Organic Food</h4>
+              <div class="price py-1">$18.99</div>
+              <div class="stars text-warning">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <div id="fat-footer">
+        <div class="row">
+          <div class="col-lg-3 col-sm-6">
+            <h4>Quick Links</h4>
+            <div class="d-flex flex-column footer-content">
+              <a href="index.html">
+                <i class="fas fa-arrow-right"></i>
+                <span class="footer-link-name">Home</span>
+              </a>
+              <a href="index.html">
+                <i class="fas fa-arrow-right"></i>
+                <span class="footer-link-name">Shop</span>
+              </a>
+              <a href="index.html">
+                <i class="fas fa-arrow-right"></i>
+                <span class="footer-link-name">About</span>
+              </a>
+              <a href="index.html">
+                <i class="fas fa-arrow-right"></i>
+                <span class="footer-link-name">Review</span>
+              </a>
+              <a href="index.html">
+                <i class="fas fa-arrow-right"></i>
+                <span class="footer-link-name">Blog</span>
+              </a>
+              <a href="index.html">
+                <i class="fas fa-arrow-right"></i>
+                <span class="footer-link-name">Contact</span>
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <h4>Extra Links</h4>
+            <div class="d-flex flex-column footer-content">
+              <a href="index.html">
+                <i class="fas fa-arrow-right"></i>
+                <span class="footer-link-name">My Order</span>
+              </a>
+              <a href="index.html">
+                <i class="fas fa-arrow-right"></i>
+                <span class="footer-link-name">My Favorite</span>
+              </a>
+              <a href="index.html">
+                <i class="fas fa-arrow-right"></i>
+                <span class="footer-link-name">My Wishlist</span>
+              </a>
+              <a href="index.html">
+                <i class="fas fa-arrow-right"></i>
+                <span class="footer-link-name">My Account</span>
+              </a>
+              <a href="index.html">
+                <i class="fas fa-arrow-right"></i>
+                <span class="footer-link-name">Terms Or Use</span>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-sm-6">
+            <h4>Follow Us</h4>
+            <div class="d-flex flex-column footer-content">
+              <a href="index.html">
+                <i class="fab fa-facebook-f"></i>
+                <span class="footer-link-name">Facebook</span>
+              </a>
+              <a href="index.html">
+                <i class="fab fa-twitter"></i>
+                <span class="footer-link-name">Twitter</span>
+              </a>
+              <a href="index.html">
+                <i class="fab fa-instagram"></i>
+                <span class="footer-link-name">Instagram</span>
+              </a>
+              <a href="index.html">
+                <i class="fab fa-linkedin"></i>
+                <span class="footer-link-name">Linkedin</span>
+              </a>
+              <a href="index.html">
+                <i class="fab fa-pinterest"></i>
+                <span class="footer-link-name">Pinterest</span>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-sm-6">
+            <h4>Newsletter</h4>
+            <p class="text-muted">Subscribe For Latest Updates</p>
+            <input
+              type="email"
+              class="form-control"
+              placeholder="enter your email"
+            />
+            <button class="btn btn-success px-3 py-2 my-3">Subscribe</button>
+            <img src="image/payment.png" alt="" class="img-fluid" />
+          </div>
+        </div>
+      </div>
+
+      <div
+        class="
+          copy-right
+          text-center
+          py-4
+          bg-success
+          text-white
+          font-weight-bold
+        "
+      >
+        Created By Mr.Web Designer | All Rights Reserved
+      </div>
+    </footer>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"
+      integrity="sha512-2rNj2KJ+D8s1ceNasTIex6z4HWyOnEYLVC3FigGOmyQCZc2eBXKgOxQmo3oKLHyfcj53uz4QMsRCWNbLd32Q1g=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+      integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+      integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
