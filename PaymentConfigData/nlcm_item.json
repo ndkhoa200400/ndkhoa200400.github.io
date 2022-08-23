@@ -1,0 +1,276 @@
+[
+    {
+        "app_id": 59012,
+        "group_id": "G1",
+        "group_name": "Gói Thường",
+        "products": {
+            "1": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>X2 nạp lần đầu: 80 Nguyên Bảo + 80 Nguyên Bảo.</br>Tặng 80 điểm VIP.</span>",
+                "enable": true,
+                "group_id": "G1",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45296",
+                "image": "https://photo.gamecenter.zdn.vn/45253",
+                "instruction": "",
+                "product_name": "80 Nguyên Bảo",
+                "product_id": 1,
+                "price": 50000
+            },
+            "2": {
+                "description": "<span style=color: #22a0ea; font-weight: 700;'>X2 nạp lần đầu: 200 Nguyên Bảo + 200 Nguyên Bảo.</span></br><span style='color: #22a0ea; font-weight: 700;'>Tặng 200 điểm VIP.</span>",
+                "enable": true,
+                "group_id": "G1",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45277",
+                "image": "https://photo.gamecenter.zdn.vn/45254",
+                "instruction": "",
+                "product_name": "200 Nguyên Bảo",
+                "product_id": 2,
+                "price": 100000
+            },
+            "3": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>X2 nạp lần đầu: 400 Nguyên Bảo + 400 Nguyên Bảo.</span></br><span style='color: #22a0ea; font-weight: 700;'>Tặng 400 điểm VIP.</span>",
+                "enable": true,
+                "group_id": "G1",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45278",
+                "image": "https://photo.gamecenter.zdn.vn/45255",
+                "instruction": "",
+                "product_name": "400 Nguyên Bảo",
+                "product_id": 3,
+                "price": 200000
+            },
+            "4": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>X2 nạp lần đầu: 800 Nguyên Bảo + 800 Nguyên Bảo.</span></br><span style='color: #22a0ea; font-weight: 700;'>Tặng 800 điểm VIP.</span>",
+                "enable": true,
+                "group_id": "G1",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45279",
+                "image": "https://photo.gamecenter.zdn.vn/45256",
+                "instruction": "",
+                "product_name": "800 Nguyên Bảo",
+                "product_id": 4,
+                "price": 500000
+            },
+            "5": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>X2 nạp lần đầu: 2.000 Nguyên Bảo + 2.000 Nguyên Bảo.</span></br><span style='color: #22a0ea; font-weight: 700;'>Tặng 2.000 điểm VIP.</span>",
+                "enable": true,
+                "group_id": "G1",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45280",
+                "image": "https://photo.gamecenter.zdn.vn/45257",
+                "instruction": "",
+                "product_name": "2000 Nguyên Bảo",
+                "product_id": 5,
+                "price": 500000
+            },
+            "6": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>X2 nạp lần đầu: 4.000 Nguyên Bảo + 4.000 Nguyên Bảo.</span></br><span style='color: #22a0ea; font-weight: 700;'>Tặng 4.000 điểm VIP.</span>",
+                "enable": true,
+                "group_id": "G1",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45281",
+                "image": "https://photo.gamecenter.zdn.vn/45258",
+                "instruction": "",
+                "product_name": "4000 Nguyên Bảo",
+                "product_id": 6,
+                "price": 1000000
+            },
+            "7": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>X2 nạp lần đầu: 8.000 Nguyên Bảo + 8,000 Nguyên Bảo.</span></br><span style='color: #22a0ea; font-weight: 700;'>Tặng 8.000 điểm VIP.</span>",
+                "enable": true,
+                "group_id": "G1",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45282",
+                "image": "https://photo.gamecenter.zdn.vn/45259",
+                "instruction": "",
+                "product_name": "8000 Nguyên Bảo",
+                "product_id": 7,
+                "price": 2000000
+            },
+            "8": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>X2 nạp lần đầu: 20.000 Nguyên Bảo + 20.000 Nguyên Bảo.</span></br><span style='color: #22a0ea; font-weight: 700;'>Tặng 20.000 điểm VIP.</span>",
+                "enable": true,
+                "group_id": "G1",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45283",
+                "image": "https://photo.gamecenter.zdn.vn/45260",
+                "instruction": "",
+                "product_name": "20000 Nguyên Bảo",
+                "product_id": 8,
+                "price": 5000000
+            }
+        }
+    },
+    {
+        "app_id": 59012,
+        "group_id": "G2",
+        "group_name": "Gói Đầu Tư",
+        "products": {
+            "101": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>Đạt VIP 6 để mua kích hoạt Quỹ Trưởng Thành. Sau khi kích hoạt, hoàn thành mục tiêu chỉ định để nhận thưởng. Tổng nhận 12.000 Nguyên Bảo</span>",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45297",
+                "image": "https://photo.gamecenter.zdn.vn/45275",
+                "instruction": "",
+                "product_name": "Quỹ trưởng thành",
+                "product_id": 101,
+                "price": 200000
+            },
+            "201": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tuần để nhận quà tặng trong 7 ngày:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 400 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận 100 Vàng mỗi ngày.</span>",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45285",
+                "image": "https://photo.gamecenter.zdn.vn/45262",
+                "instruction": "",
+                "product_name": "Thẻ Tuần Vàng",
+                "product_id": 201,
+                "price": 200000
+            },
+            "202": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tháng để nhận quà tặng trong 30 ngày:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 800 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận 100 Vàng mỗi ngày.</span>  ",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45288",
+                "image": "https://photo.gamecenter.zdn.vn/45265",
+                "instruction": "",
+                "product_name": "Thẻ Tháng Vàng",
+                "product_id": 202,
+                "price": 500000
+            },
+            "203": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tuần để nhận quà tặng trong 7 ngày:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 400 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận 50 Thể Lực mỗi ngày.</span>",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45286",
+                "image": "https://photo.gamecenter.zdn.vn/45263",
+                "instruction": "",
+                "product_name": "Thẻ Tuần Thể lực",
+                "product_id": 203,
+                "price": 200000
+            },
+            "204": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tháng để nhận quà tặng trong 30 ngày:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 800 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận 50 Thể Lực mỗi ngày.</span>",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45289",
+                "image": "https://photo.gamecenter.zdn.vn/45266",
+                "instruction": "",
+                "product_name": "Thẻ  Tháng Thể lực",
+                "product_id": 204,
+                "price": 500000
+            },
+            "205": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tuần để nhận quà tặng trong 7 ngày:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 400 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận 10 Lệnh Hành Quân mỗi ngày.</span>",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45287",
+                "image": "https://photo.gamecenter.zdn.vn/45264",
+                "instruction": "",
+                "product_name": "Thẻ Tuần Hành Quân Lệnh ",
+                "product_id": 205,
+                "price": 200000
+            },
+            "206": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tháng để nhận quà tặng trong 30 ngày:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 800 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận 10 Lệnh Hành Quân mỗi ngày.</span>",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45290",
+                "image": "https://photo.gamecenter.zdn.vn/45267",
+                "instruction": "",
+                "product_name": "Thẻ Tháng Hành Quân Lệnh",
+                "product_id": 206,
+                "price": 500000
+            },
+            "207": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tuần để nhận quà tặng trong 7 ngày:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 400 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận thêm 100 Nguyên Bảo mỗi ngày.</span>",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45284",
+                "image": "https://photo.gamecenter.zdn.vn/45261",
+                "instruction": "",
+                "product_name": "Thẻ Tuần KNB",
+                "product_id": 207,
+                "price": 200000
+            },
+            "208": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tháng để nhận quà tặng trong 30 ngày:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 800 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận thêm 100 Nguyên Bảo mỗi ngày.</span>",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45291",
+                "image": "https://photo.gamecenter.zdn.vn/45268",
+                "instruction": "",
+                "product_name": "Thẻ Tháng KNB",
+                "product_id": 208,
+                "price": 500000
+            },
+            "209": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tôn Quý để nhận quà tặng vĩnh viễn:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 2,000 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận thêm 100 Nguyên Bảo mỗi ngày (thời hạn vĩnh viễn).</span>",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45295",
+                "image": "https://photo.gamecenter.zdn.vn/45274",
+                "instruction": "",
+                "product_name": "Thẻ Chí Tôn Vĩnh Viễn",
+                "product_id": 209,
+                "price": 500000
+            }
+        }
+    },
+    {
+        "app_id": 59012,
+        "group_id": "G3",
+        "group_name": "Gói Hạn Giờ",
+        "products": {
+            "231": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>Quà tặng: 60 Nguyên Bảo, 1 Tướng Ngọc, 2 Rương Mảnh Tướng, 10 Tăng Bặc Đơn, 20 Thể Lực.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Quà sẽ tặng kèm qua Thư.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Không áp dụng cho hoạt động Nạp Tích Lũy, Vòng Quay Nạp, Nạp Hoàn Trả.</span>",
+                "enable": true,
+                "group_id": "G3",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45298",
+                "image": "https://photo.gamecenter.zdn.vn/45269",
+                "instruction": "",
+                "product_name": "Ưu đãi mỗi ngày 1",
+                "product_id": 231,
+                "price": 20000
+            },
+            "232": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>Quà tặng: 200 Nguyên Bảo, 3 Tướng Ngọc, 2 Rương Mảnh Tướng, 20 Tăng Bặc Đơn, 50 Thể Lực.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Quà sẽ tặng kèm qua Thư</span></br><span style='color: #22a0ea; font-weight: 700;'>- Không áp dụng cho hoạt động Nạp Tích Lũy, Vòng Quay Nạp, Nạp Hoàn Trả.</span>",
+                "enable": true,
+                "group_id": "G3",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45292",
+                "image": "https://photo.gamecenter.zdn.vn/45270",
+                "instruction": "",
+                "product_name": "Ưu đãi mỗi ngày 2",
+                "product_id": 232,
+                "price": 100000
+            },
+            "233": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>Quà tặng: 800 Nguyên Bảo, 9 Tướng Ngọc, 5 Rương Mảnh Tướng, 50 Tăng Bặc Đơn, 100 Thể Lực, 20 Hành Quân Lệnh.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Quà sẽ tặng kèm qua Thư.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Không áp dụng cho hoạt động Nạp Tích Lũy, Vòng Quay Nạp, Nạp Hoàn Trả.</span>",
+                "enable": true,
+                "group_id": "G3",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45293",
+                "image": "https://photo.gamecenter.zdn.vn/45271",
+                "instruction": "",
+                "product_name": "Ưu đãi mỗi ngày 3",
+                "product_id": 233,
+                "price": 500000
+            },
+            "601": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>Quà tặng Lệnh Tiến Cấp:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Thưởng mở khóa Lệnh Tăng Bậc</span></br><span style='color: #22a0ea; font-weight: 700;'>- Exp Chiến Lệnh x1000</span></br><span style='color: #22a0ea; font-weight: 700;'>- Tướng Lệnh Cao x1</span></br><span style='color: #22a0ea; font-weight: 700;'>- Rương Tài Nguyên Tím x1</span></br><span style='color: #22a0ea; font-weight: 700;'>- Tăng Bậc Đơn x50</span></br><span style='color: #22a0ea; font-weight: 700;'>- Hành Quân Lệnh x5</span>",
+                "enable": true,
+                "group_id": "G3",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45276",
+                "image": "https://photo.gamecenter.zdn.vn/45272",
+                "instruction": "",
+                "product_name": "Tăng bậc Chiến Lệnh - Phổ Thông",
+                "product_id": 601,
+                "price": 200000
+            },
+            "602": {
+                "description": "<span style='color: #22a0ea; font-weight: 700;'>Quà tặng Lệnh Tiến Cấp quý hiếm: </span></br><span style='color: #22a0ea; font-weight: 700;'>- Thưởng mở khóa Lệnh Tăng Bậc </span></br><span style='color: #22a0ea; font-weight: 700;'>- Exp Chiến Lệnh x3000 </span></br><span style='color: #22a0ea; font-weight: 700;'>- Tướng Lệnh Cao x3 </span></br><span style='color: #22a0ea; font-weight: 700;'>- Rương Tài Nguyên Vàng x1 </span></br><span style='color: #22a0ea; font-weight: 700;'>- Tăng Bậc Đơn x200 </span></br><span style='color: #22a0ea; font-weight: 700;'>- Hành Quân Lệnh x20</span>",
+                "enable": true,
+                "group_id": "G3",
+                "iap_image": "https://photo.gamecenter.zdn.vn/45294",
+                "image": "https://photo.gamecenter.zdn.vn/45273",
+                "instruction": "",
+                "product_name": "Tăng bậc Chiến Lệnh - Cao Cấp",
+                "product_id": 602,
+                "price": 500000
+            }
+        }
+    }
+]

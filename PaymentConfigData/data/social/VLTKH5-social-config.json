@@ -1,0 +1,49 @@
+{
+  "inviteFriend": {
+    "process": 0,
+    "targets": {
+      "5": {
+        "giftType": "1",
+        "isRecieved": false
+      },
+      "10": {
+        "giftType": "2",
+        "isRecieved": false
+      }
+    }
+  },
+  "inviteGroup": {
+    "process": 0,
+    "targets": {
+      "1": {
+        "giftType": "1",
+        "isRecieved": false
+      },
+      "2": {
+        "giftType": "1",
+        "isRecieved": false
+      },
+      "3": {
+        "giftType": "1",
+        "isRecieved": false
+      },
+      "4": {
+        "giftType": "1",
+        "isRecieved": false
+      },
+      "5": {
+        "giftType": "1",
+        "isRecieved": false
+      }
+    }
+  },
+  "shareFeed": {
+    "process":0,
+    "targets": {
+      "1": {
+        "giftType": "2",
+        "isRecieved": false
+      }
+    }
+  }
+}

@@ -1,0 +1,583 @@
+{
+  "G1": {
+    "groupId": "G1",
+    "groupName": "Gói thường",
+    "products": {
+      "1003": {
+        "id": "1003",
+        "prices": {
+          "sms": {
+            "53": 20000,
+            "65": 20000,
+            "60": 20000
+          },
+          "card": {
+            "1": 20000
+          },
+          "bank": {
+            "default": 20000
+          },
+          "credit": {
+            "CC": 20000
+          },
+          "e-wallet": {
+            "38": 20000
+          }
+        },
+        "description": "X2 lần đầu: 80 KNB + 80 NBK.",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/44919"
+      },
+      "1004": {
+        "id": "1004",
+        "prices": {
+          "sms": {
+            "53": 100000,
+            "65": 100000,
+            "60": 100000
+          },
+          "card": {
+            "1": 100000
+          },
+          "bank": {
+            "default": 100000
+          },
+          "credit": {
+            "CC": 100000
+          },
+          "e-wallet": {
+            "38": 100000
+          }
+        },
+        "description": "X2 lần đầu: 400 KNB + 400 NBK",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/44917"
+      },
+      "1005": {
+        "id": "1005",
+        "prices": {
+          "sms": {
+            "53": 200000,
+            "65": 200000,
+            "60": 200000
+          },
+          "card": {
+            "1": 200000
+          },
+          "bank": {
+            "default": 200000
+          },
+          "credit": {
+            "CC": 200000
+          },
+          "e-wallet": {
+            "38": 200000
+          }
+        },
+        "description": "X2 lần đầu: 800 KNB + 800 NBK",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/44918"
+      },
+      "1006": {
+        "id": "1006",
+        "prices": {
+          "card": {
+            "1": 500000
+          },
+          "bank": {
+            "default": 500000
+          },
+          "credit": {
+            "CC": 500000
+          },
+          "e-wallet": {
+            "38": 500000
+          }
+        },
+        "description": "X2 lần đầu: 2000 KNB + 2000 NBK",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/44916"
+      },
+      "1007": {
+        "id": "1007",
+        "prices": {
+          "card": {
+            "1": 1000000
+          },
+          "bank": {
+            "default": 1000000
+          },
+          "credit": {
+            "CC": 1000000
+          },
+          "e-wallet": {
+            "38": 1000000
+          }
+        },
+        "description": "X2 lần đầu: 4000 KNB + 4000 NBK",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/44915"
+      },
+      "1008": {
+        "id": "1008",
+        "prices": {
+          "bank": {
+            "default": 1500000
+          },
+          "credit": {
+            "CC": 1500000
+          },
+          "e-wallet": {
+            "38": 1500000
+          }
+        },
+        "description": "X2 lần đầu: 6000 KNB + 6000 NBK",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/44914"
+      },
+      "2003": {
+        "id": "2003",
+        "prices": {
+          "google-play": {
+            "220": 45000
+          }
+        },
+        "description": "X2 lần đầu: 80 KNB + 80 NBK.",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/44546"
+      },
+      "2004": {
+        "id": "2004",
+        "prices": {
+          "google-play": {
+            "220": 129000
+          }
+        },
+        "description": "X2 lần đầu: 400 KNB + 400 NBK",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/44547"
+      },
+      "2005": {
+        "id": "2005",
+        "prices": {
+          "google-play": {
+            "220": 249000
+          }
+        },
+        "description": "X2 lần đầu: 800 KNB + 800 NBK",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/44551"
+      },
+      "2006": {
+        "id": "2006",
+        "prices": {
+          "google-play": {
+            "220": 699000
+          }
+        },
+        "description": "X2 lần đầu: 2000 KNB + 2000 NBK",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/44550"
+      },
+      "2007": {
+        "id": "2007",
+        "prices": {
+          "google-play": {
+            "220": 1299000
+          }
+        },
+        "description": "X2 lần đầu: 4000 KNB + 4000 NBK",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/44549"
+      },
+      "2008": {
+        "id": "2008",
+        "prices": {
+          "google-play": {
+            "220": 1999000
+          }
+        },
+        "description": "X2 lần đầu: 6000 KNB + 6000 NBK",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/44548"
+      }
+    }
+  },
+  "G2": {
+    "groupId": "G2",
+    "groupName": "Gói đặc biệt",
+    "products": {
+      "1001": {
+        "id": "1001",
+        "prices": {
+          "sms": {
+            "53": 50000,
+            "65": 50000,
+            "60": 50000
+          },
+          "card": {
+            "1": 50000
+          },
+          "bank": {
+            "default": 50000
+          },
+          "credit": {
+            "CC": 50000
+          },
+          "e-wallet": {
+            "38": 50000
+          }
+        },
+        "description": "Nhận ngay 500 KNB, mỗi ngày nhận 280 KNB Khóa.",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Quý Đại Hiệp vui lòng kiểm tra trong game để chắc chắn gói vật phẩm này có thể gia hạn hoặc mua mới. </br>Nếu game không hiển thị nút mua không sáng thì hệ thống sẽ tự động quy đổi ra </span><span style='color: red; font-weight: 700;'>200KNB</span>",
+        "image":"https://photo.gamecenter.zdn.vn/44913"
+      },
+      "1002": {
+        "id": "1002",
+        "prices": {
+          "sms": {
+            "53": 100000,
+            "65": 100000,
+            "60": 100000
+          },
+          "card": {
+            "1": 100000
+          },
+          "bank": {
+            "default": 100000
+          },
+          "credit": {
+            "CC": 100000
+          },
+          "e-wallet": {
+            "38": 100000
+          }
+        },
+        "description": "Nhận ngay 850 KNB, mỗi ngày nhận 230 KNB Khóa",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Quý Đại Hiệp vui lòng kiểm tra trong game để chắc chắn gói vật phẩm này có thể gia hạn hoặc mua mới. Nếu game không hiển thị nút mua không sáng thì hệ thống sẽ tự động quy đổi ra </span><span style='color: red; font-weight: 700;'>400KNB</span>",
+        "image":"https://photo.gamecenter.zdn.vn/44912"
+      },
+      "1013": {
+        "id": "1013",
+        "prices": {
+          "e-wallet": {
+            "38": 5000
+          }
+        },
+        "description": "Nhận ngay 20KNB, 30KNB khóa, 200.000 Bạc, 10 Nữ Nhi Hồng, 8 Hiệp Khách Lệnh, 6 Nội Công Đơn, 1 Mảnh Đồ Phổ Trang Bị Cam.",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Quý Đại Hiệp vui lòng kiểm tra trong game để chắc chắn gói vật phẩm này có thể gia hạn hoặc mua mới. Nếu game không hiển thị nút mua không sáng thì hệ thống sẽ tự động quy đổi ra </span><span style='color: red; font-weight: 700;'>20KNB</span>",
+        "image":"https://photo.gamecenter.zdn.vn/44909"
+      },
+      "1014": {
+        "id": "1014",
+        "prices": {
+          "sms": {
+            "53": 10000,
+            "65": 10000,
+            "60": 10000
+          },
+          "card": {
+            "1": 10000
+          },
+          "bank": {
+            "default": 10000
+          },
+          "credit": {
+            "CC": 10000
+          },
+          "e-wallet": {
+            "38": 10000
+          }
+        },
+        "description": "Nhận ngay 40KNB, 60KNB khóa, 8 Rèn Luyện Đơn, 8 Hồi Tiên Đơn, 6 Tẩy Tủy Đơn, 3 Mảnh Đồ Phổ Trang Bị Cam.",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Quý Đại Hiệp vui lòng kiểm tra trong game để chắc chắn gói vật phẩm này có thể gia hạn hoặc mua mới. Nếu game không hiển thị nút mua không sáng thì hệ thống sẽ tự động quy đổi ra </span><span style='color: red; font-weight: 700;'>40KNB</span>",
+        "image":"https://photo.gamecenter.zdn.vn/44911"
+      },
+      "1015": {
+        "id": "1015",
+        "prices": {
+          "sms": {
+            "53": 20000,
+            "65": 20000,
+            "60": 20000
+          },
+          "card": {
+            "1": 20000
+          },
+          "bank": {
+            "default": 20000
+          },
+          "credit": {
+            "CC": 20000
+          },
+          "e-wallet": {
+            "38": 20000
+          }
+        },
+        "description": "Nhận ngay 80KNB, 70KNB khóa, 6 Mảnh Đồ Phổ Trang Bị Cam, 20 Đồ Phổ Rèn Ngẫu Nhiên, 20 Nguyên Liệu Rèn Ngẫu Nhiên, 10 Huyền Tinh Lv1, 10 Huyền Tinh Lv2",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Quý Đại Hiệp vui lòng kiểm tra trong game để chắc chắn gói vật phẩm này có thể gia hạn hoặc mua mới. Nếu game không hiển thị nút mua không sáng thì hệ thống sẽ tự động quy đổi ra </span><span style='color: red; font-weight: 700;'>80KNB</span>",
+        "image":"https://photo.gamecenter.zdn.vn/44910"
+      },
+      "1016": {
+        "id": "1016",
+        "prices": {
+          "sms": {
+            "53": 200000,
+            "65": 200000,
+            "60": 200000
+          },
+          "card": {
+            "1": 200000
+          },
+          "bank": {
+            "default": 200000
+          },
+          "credit": {
+            "CC": 200000
+          },
+          "e-wallet": {
+            "38": 200000
+          }
+        },
+        "description": "Nhận ngay 800NB, mỗi khi đạt cấp độ nhất định sẽ nhận 1000NB Khóa. Tổng cộng 6800NB.",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Quý Đại Hiệp vui lòng kiểm tra trong game để chắc chắn gói vật phẩm này có thể gia hạn hoặc mua mới. Nếu game không hiển thị nút mua không sáng thì hệ thống sẽ tự động quy đổi ra </span><span style='color: red; font-weight: 700;'>800KNB</span>",
+        "image":"https://photo.gamecenter.zdn.vn/44907"
+      },
+      "1017": {
+        "id": "1017",
+        "prices": {
+          "sms": {
+            "53": 200000,
+            "65": 200000,
+            "60": 200000
+          },
+          "card": {
+            "1": 200000
+          },
+          "bank": {
+            "default": 200000
+          },
+          "credit": {
+            "CC": 200000
+          },
+          "e-wallet": {
+            "38": 200000
+          }
+        },
+        "description": "Nhận ngay 800NB, mỗi khi đạt cấp độ nhất định sẽ nhận 1000NB Khóa. Tổng cộng 6800NB.",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Quý Đại Hiệp vui lòng kiểm tra trong game để chắc chắn gói vật phẩm này có thể gia hạn hoặc mua mới. Nếu game không hiển thị nút mua không sáng thì hệ thống sẽ tự động quy đổi ra </span><span style='color: red; font-weight: 700;'>800KNB</span><span style='color: #22a0ea; font-weight: 700;'>. Lưu ý: Quà tặng chỉ có khi mua và sử dụng hoàn tất gói đầu tư </span><span style='color: red; font-weight: 700;'>LV20</span>",
+        "image":"https://photo.gamecenter.zdn.vn/44906"
+      },
+      "1018": {
+        "id": "1018",
+        "prices": {
+          "sms": {
+            "53": 200000,
+            "65": 200000,
+            "60": 200000
+          },
+          "card": {
+            "1": 200000
+          },
+          "bank": {
+            "default": 200000
+          },
+          "credit": {
+            "CC": 200000
+          },
+          "e-wallet": {
+            "38": 200000
+          }
+        },
+        "description": "Nhận ngay 800NB, mỗi khi đạt cấp độ nhất định sẽ nhận 2000NB Khóa. Tổng cộng 12800NB.",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Quý Đại Hiệp vui lòng kiểm tra trong game để chắc chắn gói vật phẩm này có thể gia hạn hoặc mua mới. Nếu game không hiển thị nút mua không sáng thì hệ thống sẽ tự động quy đổi ra </span><span style='color: red; font-weight: 700;'>800KNB</span><span style='color: #22a0ea; font-weight: 700;'>. Lưu ý: Quà tặng chỉ có khi mua và sử dụng hoàn tất gói đầu tư </span><span style='color: red; font-weight: 700;'>LV60</span>",
+        "image":"https://photo.gamecenter.zdn.vn/44905"
+      },
+      "1020": {
+        "id": "1020",
+        "prices": {
+          "sms": {
+            "53": 200000,
+            "65": 200000,
+            "60": 200000
+          },
+          "card": {
+            "1": 200000
+          },
+          "bank": {
+            "default": 200000
+          },
+          "credit": {
+            "CC": 200000
+          },
+          "e-wallet": {
+            "38": 200000
+          }
+        },
+        "description": "Nhận ngay 800NB, mỗi khi đạt cấp độ nhất định sẽ nhận 2000NB Khóa. Tổng cộng 12800NB",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/44904"
+      },
+      "1021": {
+        "id": "1021",
+        "prices": {
+        },
+        "description": "500 KNB, 500 NB khóa. Mỗi ngày nhận 3 khiêu chiến lệnh",
+        "instruction": "",
+        "image":"https://stc-billing.mto.zing.vn/jxh5/static/package/1021-1.png"
+      },
+      "1022": {
+        "id": "1022",
+        "prices": {
+        },
+        "description": "20 KNB, 50 KNB khóa, 1 Thưởng Thiên Lệnh, 100 Chiến Lệnh",
+        "instruction": "",
+        "image":"https://stc-billing.mto.zing.vn/jxh5/static/package/1022-1.png"
+      },
+      "1023": {
+        "id": "1023",
+        "prices": {
+        },
+        "description": "40 KNB, 100 KNB khóa, 2 Thưởng Thiên Lệnh, 200 Chiến Lệnh",
+        "instruction": "",
+        "image":"https://stc-billing.mto.zing.vn/jxh5/static/package/1023-1.png"
+      },
+      "1024": {
+        "id": "1024",
+        "prices": {
+        },
+        "description": "80 KNB, 200 KNB khóa, 3 Thưởng Thiên Lệnh, 300 Chiến Lệnh",
+        "instruction": "",
+        "image":"https://stc-billing.mto.zing.vn/jxh5/static/package/1024-1.png"
+      },
+      "2001": {
+        "id": "2001",
+        "prices": {
+          "google-play": {
+            "220": 69000
+          }
+        },
+        "description": "Nhận ngay 500 KNB, mỗi ngày nhận 280 KNB Khóa.",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Quý Đại Hiệp vui lòng kiểm tra trong game để chắc chắn gói vật phẩm này có thể gia hạn hoặc mua mới. </br>Nếu game không hiển thị nút mua không sáng thì hệ thống sẽ tự động quy đổi ra </span><span style='color: red; font-weight: 700;'>200KNB</span>",
+        "image": "https://photo.gamecenter.zdn.vn/44555"
+      },
+      "2002": {
+        "id": "2002",
+        "prices": {
+          "google-play": {
+            "220": 129000
+          }
+        },
+        "description": "Nhận ngay 850 KNB, mỗi ngày nhận 230 KNB Khóa",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Quý Đại Hiệp vui lòng kiểm tra trong game để chắc chắn gói vật phẩm này có thể gia hạn hoặc mua mới. Nếu game không hiển thị nút mua không sáng thì hệ thống sẽ tự động quy đổi ra </span><span style='color: red; font-weight: 700;'>400KNB</span>",
+        "image": "https://photo.gamecenter.zdn.vn/44554"
+      },
+      "2013": {
+        "id": "2013",
+        "prices": {},
+        "description": "Nhận ngay 20KNB, 30KNB khóa, 200.000 Bạc, 10 Nữ Nhi Hồng, 8 Hiệp Khách Lệnh, 6 Nội Công Đơn, 1 Mảnh Đồ Phổ Trang Bị Cam.",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Quý Đại Hiệp vui lòng kiểm tra trong game để chắc chắn gói vật phẩm này có thể gia hạn hoặc mua mới. Nếu game không hiển thị nút mua không sáng thì hệ thống sẽ tự động quy đổi ra </span><span style='color: red; font-weight: 700;'>20KNB</span>",
+        "image": "https://stc-billing.mto.zing.vn/jxh5/static/package/1013.point.png"
+      },
+      "2014": {
+        "id": "2014",
+        "prices": {},
+        "description": "Nhận ngay 40KNB, 60KNB khóa, 8 Rèn Luyện Đơn, 8 Hồi Tiên Đơn, 6 Tẩy Tủy Đơn, 3 Mảnh Đồ Phổ Trang Bị Cam.",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Quý Đại Hiệp vui lòng kiểm tra trong game để chắc chắn gói vật phẩm này có thể gia hạn hoặc mua mới. Nếu game không hiển thị nút mua không sáng thì hệ thống sẽ tự động quy đổi ra </span><span style='color: red; font-weight: 700;'>40KNB</span>",
+        "image": "https://stc-billing.mto.zing.vn/jxh5/static/package/1014.point.png"
+      },
+      "2015": {
+        "id": "2015",
+        "prices": {},
+        "description": "Nhận ngay 80KNB, 70KNB khóa, 6 Mảnh Đồ Phổ Trang Bị Cam, 20 Đồ Phổ Rèn Ngẫu Nhiên, 20 Nguyên Liệu Rèn Ngẫu Nhiên, 10 Huyền Tinh Lv1, 10 Huyền Tinh Lv2",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Quý Đại Hiệp vui lòng kiểm tra trong game để chắc chắn gói vật phẩm này có thể gia hạn hoặc mua mới. Nếu game không hiển thị nút mua không sáng thì hệ thống sẽ tự động quy đổi ra </span><span style='color: red; font-weight: 700;'>80KNB</span>",
+        "image": "https://stc-billing.mto.zing.vn/jxh5/static/package/1015.point.png"
+      },
+      "2016": {
+        "id": "2016",
+        "prices": {},
+        "description": "Nhận ngay 800NB, mỗi khi đạt cấp độ nhất định sẽ nhận 1000NB Khóa. Tổng cộng 6800NB.",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Quý Đại Hiệp vui lòng kiểm tra trong game để chắc chắn gói vật phẩm này có thể gia hạn hoặc mua mới. Nếu game không hiển thị nút mua không sáng thì hệ thống sẽ tự động quy đổi ra </span><span style='color: red; font-weight: 700;'>800KNB</span>",
+        "image": "https://stc-billing.mto.zing.vn/jxh5/static/package/1016.point.png"
+      },
+      "2017": {
+        "id": "2017",
+        "prices": {},
+        "description": "Nhận ngay 800NB, mỗi khi đạt cấp độ nhất định sẽ nhận 1000NB Khóa. Tổng cộng 6800NB.",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Quý Đại Hiệp vui lòng kiểm tra trong game để chắc chắn gói vật phẩm này có thể gia hạn hoặc mua mới. Nếu game không hiển thị nút mua không sáng thì hệ thống sẽ tự động quy đổi ra </span><span style='color: red; font-weight: 700;'>800KNB</span><span style='color: #22a0ea; font-weight: 700;'>. Lưu ý: Quà tặng chỉ có khi mua và sử dụng hoàn tất gói đầu tư </span><span style='color: #22a0ea; font-weight: 700;'>LV20</span>",
+        "image": "https://stc-billing.mto.zing.vn/jxh5/static/package/1017.point.png"
+      },
+      "2018": {
+        "id": "2018",
+        "prices": {},
+        "description": "Nhận ngay 800NB, mỗi khi đạt cấp độ nhất định sẽ nhận 2000NB Khóa. Tổng cộng 12800NB.",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Quý Đại Hiệp vui lòng kiểm tra trong game để chắc chắn gói vật phẩm này có thể gia hạn hoặc mua mới. Nếu game không hiển thị nút mua không sáng thì hệ thống sẽ tự động quy đổi ra </span><span style='color: red; font-weight: 700;'>800KNB</span><span style='color: #22a0ea; font-weight: 700;'>. Lưu ý: Quà tặng chỉ có khi mua và sử dụng hoàn tất gói đầu tư </span><span style='color: red; font-weight: 700;'>LV60</span>",
+        "image": "https://stc-billing.mto.zing.vn/jxh5/static/package/1018.point.png"
+      },
+      "2020": {
+        "id": "2020",
+        "prices": {},
+        "description": "Nhận ngay 800NB, mỗi khi đạt cấp độ nhất định sẽ nhận 2000NB Khóa. Tổng cộng 12800NB",
+        "instruction": "",
+        "image": "https://stc-billing.mto.zing.vn/jxh5/static/package/1020.point.png"
+      },
+      "2021": {
+        "id": "2021",
+        "prices": {
+        },
+        "description": "500 KNB, 500 NB khóa. Mỗi ngày nhận 3 khiêu chiến lệnh",
+        "instruction": "",
+        "image":"https://stc-billing.mto.zing.vn/jxh5/static/package/1021-1.png"
+      },
+      "2022": {
+        "id": "2022",
+        "prices": {
+        },
+        "description": "20 KNB, 50 KNB khóa, 1 Thưởng Thiên Lệnh, 100 Chiến Lệnh",
+        "instruction": "",
+        "image":"https://stc-billing.mto.zing.vn/jxh5/static/package/1022-1.png"
+      },
+      "2023": {
+        "id": "2023",
+        "prices": {
+        },
+        "description": "40 KNB, 100 KNB khóa, 2 Thưởng Thiên Lệnh, 200 Chiến Lệnh",
+        "instruction": "",
+        "image":"https://stc-billing.mto.zing.vn/jxh5/static/package/1023-1.png"
+      },
+      "2024": {
+        "id": "2024",
+        "prices": {
+        },
+        "description": "80 KNB, 200 KNB khóa, 3 Thưởng Thiên Lệnh, 300 Chiến Lệnh",
+        "instruction": "",
+        "image":"https://stc-billing.mto.zing.vn/jxh5/static/package/1024-1.png"
+      }
+    }
+  },
+  "G3": {
+    "groupId": "G3",
+    "groupName": "Gói ZaloPay",
+    "products": {
+      "1019": {
+        "id": "1019",
+        "prices": {
+          "e-wallet": {
+            "38": 210000
+          }
+        },
+        "description": "Nhận 1 lúc Quà Thiếu Hiệp*7; Quà Đại Hiệp*7;  Quà Hào Hiệp*7,  210000 điểm VIP.",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Điều kiện mua gói combo 7 ngày: Chưa mua bất cứ gói ngày nào trong ngày. Trong vòng 7 ngày sau khi mua gói combo không được mua thêm các gói này khác. Nếu như Đại Hiệp mua thành công nhưng vào game phát hiện chưa có tư cách mua, sẽ quy đổi  thành </span><span style='color: red; font-weight: 700;'>840KNB</span>",
+        "image":"https://photo.gamecenter.zdn.vn/44929"
+      },
+      "2019": {
+        "id": "2019",
+        "prices": {
+        },
+        "description": "Nhận 1 lúc Quà Thiếu Hiệp*7; Quà Đại Hiệp*7;  Quà Hào Hiệp*7,  210000 điểm VIP.",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Điều kiện mua gói combo 7 ngày: Chưa mua bất cứ gói ngày nào trong ngày. Trong vòng 7 ngày sau khi mua gói combo không được mua thêm các gói này khác. Nếu như Đại Hiệp mua thành công nhưng vào game phát hiện chưa có tư cách mua, sẽ quy đổi  thành </span><span style='color: red; font-weight: 700;'>840KNB</span>",
+        "image":"https://stc-billing.mto.zing.vn/jxh5/static/package/1019.point.png"
+      }
+    }
+  }
+}

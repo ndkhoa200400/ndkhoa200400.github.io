@@ -1,0 +1,38 @@
+[
+    {
+        "_id": 2,
+        "name": "SMS",
+        "type": "sms",
+        "desc": "Tỉ lệ quy đổi point tùy theo nhà mạng"
+    },
+    {
+        "_id": 3,
+        "name": "Thẻ Zing",
+        "type": "card",
+        "desc": ""
+    },
+    {
+        "_id": 4,
+        "name": "ATM / Thẻ Ngân Hàng",
+        "type": "bank",
+        "desc": ""
+    },
+    {
+        "_id": 0,
+        "name": "Credit Card",
+        "type": "credit",
+        "desc": ""
+    },
+    {
+        "_id": 5,
+        "name": "E-Wallet",
+        "type": "e-wallet",
+        "desc": ""
+    },
+    {
+        "_id": 6,
+        "name": "GooglePlay",
+        "type": "google-play",
+        "desc": ""
+    }
+]

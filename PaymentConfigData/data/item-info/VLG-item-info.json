@@ -1,0 +1,534 @@
+{
+  "G1": {
+    "groupId": "G1",
+    "groupName": "Gói Nguyên bảo",
+    "products": {
+      "1": {
+        "id": "1",
+        "name": "60 Nguyên bảo",
+        "prices": {
+          "sms": {
+            "53": 50000,
+            "65": 50000,
+            "60": 50000
+          },
+          "card": {
+            "1": 20000
+          },
+          "bank": {
+            "default": 20000
+          },
+          "credit": {
+            "CC": 20000
+          },
+          "e-wallet": {
+            "38": 20000
+          },
+          "google-play": {
+            "220": 30000
+          }
+        },
+        "description": "60 Nguyên bảo. x2 Nguyên Bảo cho lần nạp đầu tiên.",
+        "instruction": "",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/60-nb.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/60-nb.jpg"
+      },
+      "3": {
+        "id": "3",
+        "name": "300 Nguyên bảo",
+        "prices": {
+          "sms": {
+            "53": 200000,
+            "65": 200000,
+            "60": 200000
+          },
+          "card": {
+            "1": 100000
+          },
+          "bank": {
+            "default": 100000
+          },
+          "credit": {
+            "CC": 100000
+          },
+          "e-wallet": {
+            "38": 100000
+          },
+          "google-play": {
+            "220": 150000
+          }
+        },
+        "description": "300 Nguyên bảo. x2 Nguyên Bảo cho lần nạp đầu tiên.",
+        "instruction": "",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/300-nb.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/300-nb.jpg"
+      },
+      "4": {
+        "id": "4",
+        "name": "680 Nguyên bảo",
+        "prices": {
+          "sms": {
+            "53": 500000,
+            "65": 500000,
+            "60": 500000
+          },
+          "bank": {
+            "default": 250000
+          },
+          "credit": {
+            "CC": 250000
+          },
+          "e-wallet": {
+            "38": 250000
+          },
+          "google-play": {
+            "220": 300000
+          }
+        },
+        "description": "680 Nguyên bảo + 70 NB (khuyến mãi). x2 Nguyên Bảo cho lần nạp đầu tiên không bao gồm khuyến mãi.",
+        "instruction": "",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/680-nb.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/680-nb.jpg"
+      },
+      "5": {
+        "id": "5",
+        "name": "1980 Nguyên bảo",
+        "prices": {
+          "bank": {
+            "default": 700000
+          },
+          "credit": {
+            "CC": 700000
+          },
+          "e-wallet": {
+            "38": 700000
+          },
+          "google-play": {
+            "220": 1000000
+          }
+        },
+        "description": "1980 Nguyên bảo + 130 NB (khuyến mãi 3000 VNĐ). x2 Nguyên Bảo cho lần nạp đầu tiên không bao gồm khuyến mãi.",
+        "instruction": "",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/1980-nb.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/1980-nb.jpg"
+      },
+      "7": {
+        "id": "7",
+        "name": "3280 Nguyên bảo",
+        "prices": {
+          "bank": {
+            "default": 1100000
+          },
+          "credit": {
+            "CC": 1100000
+          },
+          "e-wallet": {
+            "38": 1100000
+          },
+          "google-play": {
+            "220": 1600000
+          }
+        },
+        "description": "3280 Nguyên bảo + 140 NB (khuyến mãi 40,000 VNĐ). x2 Nguyên Bảo cho lần nạp đầu tiên không bao gồm khuyến mãi.",
+        "instruction": "",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/3280-nb.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/3280-nb.jpg"
+      },
+      "8": {
+        "id": "8",
+        "name": "6480 Nguyên bảo",
+        "prices": {
+          "bank": {
+            "default": 2200000
+          },
+          "credit": {
+            "CC": 2200000
+          },
+          "e-wallet": {
+            "38": 2200000
+          },
+          "google-play": {
+            "220": 3000000
+          }
+        },
+        "description": "6480 Nguyên bảo + 420 NB (khuyến mãi 100,000 VNĐ). x2 Nguyên Bảo cho lần nạp đầu tiên không bao gồm khuyến mãi. ",
+        "instruction": "",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/6480-nb.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/6480-nb.jpg"
+      },
+      "21": {
+        "id": "21",
+        "name": "16600 Nguyên bảo",
+        "prices": {
+          "bank": {
+            "default": 5100000
+          },
+          "credit": {
+            "CC": 5100000
+          },
+          "e-wallet": {
+            "38": 5100000
+          },
+          "google-play": {
+            "220": 7500000
+          }
+        },
+        "description": "16600 Nguyên bảo + 830 NB (khuyến mãi 710,000 VNĐ). x2 Nguyên Bảo cho lần nạp đầu tiên không bao gồm khuyến mãi. ",
+        "instruction": "",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/16600-nb.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/16600-nb.jpg"
+      }
+    }
+  },
+  "G2": {
+    "groupId": "G2",
+    "groupName": "Gói hiện kim",
+    "products": {
+      "13": {
+        "id": "13",
+        "name": "60 Quà hiện kim",
+        "prices": {
+          "sms": {
+            "53": 50000,
+            "65": 50000,
+            "60": 50000
+          },
+          "card": {
+            "1": 20000
+          },
+          "bank": {
+            "default": 20000
+          },
+          "credit": {
+            "CC": 20000
+          },
+          "e-wallet": {
+            "38": 20000
+          },
+          "google-play": {
+            "220": 30000
+          }
+        },
+        "description": "Nạp 20,000 để nhận được vật phẩm tương ứng trong game",
+        "instruction": "<span style='color: red; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra trong game để biết chi tiết các vật phẩm nhận được từ gói nạp</span>",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/gift-1.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/gift-1.jpg"
+      },
+      "14": {
+        "id": "14",
+        "name": "280 Quà hiện kim",
+        "prices": {
+          "sms": {
+            "53": 200000,
+            "65": 200000,
+            "60": 200000
+          },
+          "card": {
+            "1": 100000
+          },
+          "bank": {
+            "default": 100000
+          },
+          "credit": {
+            "CC": 100000
+          },
+          "e-wallet": {
+            "38": 100000
+          },
+          "google-play": {
+            "220": 150000
+          }
+        },
+        "description": "Nạp 100,000 để nhận được vật phẩm tương ứng trong game",
+        "instruction": "<span style='color: red; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra trong game để biết chi tiết các vật phẩm nhận được từ gói nạp</span>",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/gift-2.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/gift-2.jpg"
+      },
+      "15": {
+        "id": "15",
+        "name": "300 Quà hiện kim",
+        "prices": {
+          "sms": {
+            "53": 200000,
+            "65": 200000,
+            "60": 200000
+          },
+          "card": {
+            "1": 100000
+          },
+          "bank": {
+            "default": 100000
+          },
+          "credit": {
+            "CC": 100000
+          },
+          "e-wallet": {
+            "38": 100000
+          },
+          "google-play": {
+            "220": 150000
+          }
+        },
+        "description": "Nạp 100,000 để nhận được vật phẩm tương ứng trong game",
+        "instruction": "<span style='color: red; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra trong game để biết chi tiết các vật phẩm nhận được từ gói nạp</span>",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/gift-3.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/gift-2.jpg"
+      },
+      "16": {
+        "id": "16",
+        "name": "680 Quà hiện kim",
+        "prices": {
+          "sms": {
+            "53": 500000,
+            "65": 500000,
+            "60": 500000
+          },
+          "bank": {
+            "default": 250000
+          },
+          "credit": {
+            "CC": 250000
+          },
+          "e-wallet": {
+            "38": 250000
+          },
+          "google-play": {
+            "220": 300000
+          }
+        },
+        "description": "Nạp 250,000 để nhận được vật phẩm tương ứng trong game",
+        "instruction": "<span style='color: red; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra trong game để biết chi tiết các vật phẩm nhận được từ gói nạp</span>",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/gift-4.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/gift-3.jpg"
+      },
+      "17": {
+        "id": "17",
+        "name": "1980 Quà hiện kim",
+        "prices": {
+          "bank": {
+            "default": 700000
+          },
+          "credit": {
+            "CC": 700000
+          },
+          "e-wallet": {
+            "38": 700000
+          },
+          "google-play": {
+            "220": 1000000
+          }
+        },
+        "description": "Nạp 700,000 để nhận được vật phẩm tương ứng trong game",
+        "instruction": "<span style='color: red; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra trong game để biết chi tiết các vật phẩm nhận được từ gói nạp</span>",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/gift-5.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/gift-4.jpg"
+      },
+      "18": {
+        "id": "18",
+        "name": "2880 Quà hiện kim",
+        "prices": {
+          "card": {
+            "1": 1000000
+          },
+          "bank": {
+            "default": 1000000
+          },
+          "credit": {
+            "CC": 1000000
+          },
+          "e-wallet": {
+            "38": 1000000
+          },
+          "google-play": {
+            "220": 1500000
+          }
+        },
+        "description": "Nạp 1,000,000 để nhận được vật phẩm tương ứng trong game",
+        "instruction": "<span style='color: red; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra trong game để biết chi tiết các vật phẩm nhận được từ gói nạp</span>",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/gift-6.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/gift-5.jpg"
+      },
+      "19": {
+        "id": "19",
+        "name": "3280 Quà hiện kim",
+        "prices": {
+          "bank": {
+            "default": 1100000
+          },
+          "credit": {
+            "CC": 1100000
+          },
+          "e-wallet": {
+            "38": 1100000
+          },
+          "google-play": {
+            "220": 1600000
+          }
+        },
+        "description": "Nạp 1,100,000 để nhận được vật phẩm tương ứng trong game",
+        "instruction": "<span style='color: red; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra trong game để biết chi tiết các vật phẩm nhận được từ gói nạp</span>",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/gift-7.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/gift-5.jpg"
+      },
+      "20": {
+        "id": "20",
+        "name": "6480 Quà hiện kim",
+        "prices": {
+          "bank": {
+            "default": 2200000
+          },
+          "credit": {
+            "CC": 2200000
+          },
+          "e-wallet": {
+            "38": 2200000
+          },
+          "google-play": {
+            "220": 3000000
+          }
+        },
+        "description": "Nạp 2,200,000 để nhận được vật phẩm tương ứng trong game",
+        "instruction": "<span style='color: red; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra trong game để biết chi tiết các vật phẩm nhận được từ gói nạp</span>",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/gift-8.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/gift-6.jpg"
+      }
+    }
+  },
+  "G3": {
+    "groupId": "G3",
+    "groupName": "Gói đặc biệt",
+    "products": {
+      "2": {
+        "id": "2",
+        "name": "Thẻ tháng",
+        "prices": {
+          "sms": {
+            "53": 200000,
+            "65": 200000,
+            "60": 200000
+          },
+          "card": {
+            "1": 100000
+          },
+          "bank": {
+            "default": 100000
+          },
+          "credit": {
+            "CC": 100000
+          },
+          "e-wallet": {
+            "38": 100000
+          },
+          "google-play": {
+            "220": 150000
+          }
+        },
+        "description": "Nhận ngay 280 Nguyên Bảo, mỗi ngày nhận 100 Nguyên Bảo trong vòng 30 ngày.",
+        "instruction": "",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/monthly-pass.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/monthly-pass.jpg"
+      },
+      "6": {
+        "id": "6",
+        "name": "Thẻ năm",
+        "prices": {
+          "card": {
+            "1": 1000000
+          },
+          "bank": {
+            "default": 1000000
+          },
+          "credit": {
+            "CC": 1000000
+          },
+          "e-wallet": {
+            "38": 1000000
+          },
+          "google-play": {
+            "220": 1500000
+          }
+        },
+        "description": "Nhận ngay 2800 Nguyên Bảo, mỗi ngày nhận 100 Nguyên Bảo trong vòng 1 năm.",
+        "instruction": "",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/yearly-pass.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/yearly-pass.jpg"
+      },
+      "10": {
+        "id": "10",
+        "name": "Quỹ",
+        "prices": {
+          "bank": {
+            "default": 700000
+          },
+          "credit": {
+            "CC": 700000
+          },
+          "e-wallet": {
+            "38": 700000
+          },
+          "google-play": {
+            "220": 1000000
+          }
+        },
+        "description": "Sau khi mua Quỹ Phúc Lợi đạt nhiều điều kiện sẽ nhận được thêm nhiều Nguyên Bảo tương ứng.",
+        "instruction": "",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/benefit.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/benefit.jpg"
+      },
+      "11": {
+        "id": "11",
+        "name": "Tứ thiện",
+        "prices": {
+          "sms": {
+            "53": 500000,
+            "65": 500000,
+            "60": 500000
+          },
+          "bank": {
+            "default": 250000
+          },
+          "credit": {
+            "CC": 250000
+          },
+          "e-wallet": {
+            "38": 250000
+          },
+          "google-play": {
+            "220": 300000
+          }
+        },
+        "description": "Sau khi mua Khiêu Chiến Lệnh Vàng làm nhiệm vụ nhận EXP và mở khóa các vật phẩm có giá trị theo từng cấp.",
+        "instruction": "",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/challenge-ticket-gold.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/challenge-ticket-gold.jpg"
+      },
+      "12": {
+        "id": "12",
+        "name": "Tứ thiện",
+        "prices": {
+          "sms": {
+            "53": 500000,
+            "65": 500000,
+            "60": 500000
+          },
+          "bank": {
+            "default": 250000
+          },
+          "credit": {
+            "CC": 250000
+          },
+          "e-wallet": {
+            "38": 250000
+          },
+          "google-play": {
+            "220": 300000
+          }
+        },
+        "description": "Sau khi mua Khiêu Chiến Lệnh Vàng - Hào Hoa làm nhiệm vụ nhận EXP và mở khóa các vật phẩm có giá trị theo từng cấp. (Cần mua Khiêu Chiến Lệnh Vàng trước mới có thể mua Hào Hoa)",
+        "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra đã mua Khiêu chiến lệnh vàng trước khi mua gói này. Lưu ý: Hệ thống sẽ quy đổi ra 682 Nguyên Bảo nếu trước đó chưa mua Khiêu chiến lệnh vàng.</span>",
+        "image": "https://h5.zadn.vn/games/vlg/payment-package/challenge-ticket-gold-2.jpg",
+        "iapImage": "https://h5.zadn.vn/games/vlg/payment-iap-package/challenge-ticket-gold-2.jpg"
+      }
+    }
+  }
+}

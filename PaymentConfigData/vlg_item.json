@@ -1,0 +1,243 @@
+[
+    {
+        "app_id": 65640,
+        "group_id": "G1",
+        "group_name": "Gói Nguyên bảo",
+        "products": {
+            "1": {
+                "description": "60 Nguyên bảo. x2 Nguyên Bảo cho lần nạp đầu tiên.",
+                "enable": true,
+                "group_id": "G1",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/60-nb.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/60-nb.jpg",
+                "instruction": "",
+                "product_name": "60 Nguyên bảo",
+                "product_id": 1,
+                "price": 50000
+            },
+            "3": {
+                "description": "300 Nguyên bảo. x2 Nguyên Bảo cho lần nạp đầu tiên.",
+                "enable": true,
+                "group_id": "G1",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/300-nb.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/300-nb.jpg",
+                "instruction": "",
+                "product_name": "300 Nguyên bảo",
+                "product_id": 3,
+                "price": 200000
+            },
+            "4": {
+                "description": "680 Nguyên bảo + 70 NB (khuyến mãi). x2 Nguyên Bảo cho lần nạp đầu tiên không bao gồm khuyến mãi.",
+                "enable": true,
+                "group_id": "G1",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/680-nb.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/680-nb.jpg",
+                "instruction": "",
+                "product_name": "680 Nguyên bảo",
+                "product_id": 4,
+                "price": 500000
+            },
+            "5": {
+                "description": "1980 Nguyên bảo + 130 NB (khuyến mãi 3000 VNĐ). x2 Nguyên Bảo cho lần nạp đầu tiên không bao gồm khuyến mãi.",
+                "enable": true,
+                "group_id": "G1",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/1980-nb.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/1980-nb.jpg",
+                "instruction": "",
+                "product_name": "1980 Nguyên bảo",
+                "product_id": 5,
+                "price": 700000
+            },
+            "7": {
+                "description": "3280 Nguyên bảo + 140 NB (khuyến mãi 40,000 VNĐ). x2 Nguyên Bảo cho lần nạp đầu tiên không bao gồm khuyến mãi.",
+                "enable": true,
+                "group_id": "G1",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/3280-nb.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/3280-nb.jpg",
+                "instruction": "",
+                "product_name": "3280 Nguyên bảo",
+                "product_id": 7,
+                "price": 1100000
+            },
+            "8": {
+                "description": "6480 Nguyên bảo + 420 NB (khuyến mãi 100,000 VNĐ). x2 Nguyên Bảo cho lần nạp đầu tiên không bao gồm khuyến mãi. ",
+                "enable": true,
+                "group_id": "G1",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/6480-nb.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/6480-nb.jpg",
+                "instruction": "",
+                "product_name": "6480 Nguyên bảo",
+                "product_id": 8,
+                "price": 2200000
+            },
+            "21": {
+                "description": "16600 Nguyên bảo + 830 NB (khuyến mãi 710,000 VNĐ). x2 Nguyên Bảo cho lần nạp đầu tiên không bao gồm khuyến mãi. ",
+                "enable": true,
+                "group_id": "G1",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/16600-nb.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/16600-nb.jpg",
+                "instruction": "",
+                "product_name": "16600 Nguyên bảo",
+                "product_id": 21,
+                "price": 5100000
+            }
+        }
+    },
+    {
+        "app_id": 65640,
+        "group_id": "G2",
+        "group_name": "Gói hiện kim",
+        "products": {
+            "13": {
+                "description": "Nạp 20,000 để nhận được vật phẩm tương ứng trong game",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/gift-1.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/gift-1.jpg",
+                "instruction": "<span style='color: red; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra trong game để biết chi tiết các vật phẩm nhận được từ gói nạp</span>",
+                "product_name": "60 Quà hiện kim",
+                "product_id": 13,
+                "price": 50000
+            },
+            "14": {
+                "description": "Nạp 100,000 để nhận được vật phẩm tương ứng trong game",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/gift-2.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/gift-2.jpg",
+                "instruction": "<span style='color: red; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra trong game để biết chi tiết các vật phẩm nhận được từ gói nạp</span>",
+                "product_name": "280 Quà hiện kim",
+                "product_id": 14,
+                "price": 200000
+            },
+            "15": {
+                "description": "Nạp 100,000 để nhận được vật phẩm tương ứng trong game",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/gift-2.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/gift-3.jpg",
+                "instruction": "<span style='color: red; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra trong game để biết chi tiết các vật phẩm nhận được từ gói nạp</span>",
+                "product_name": "300 Quà hiện kim",
+                "product_id": 15,
+                "price": 200000
+            },
+            "16": {
+                "description": "Nạp 250,000 để nhận được vật phẩm tương ứng trong game",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/gift-3.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/gift-4.jpg",
+                "instruction": "<span style='color: red; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra trong game để biết chi tiết các vật phẩm nhận được từ gói nạp</span>",
+                "product_name": "680 Quà hiện kim",
+                "product_id": 16,
+                "price": 500000
+            },
+            "17": {
+                "description": "Nạp 700,000 để nhận được vật phẩm tương ứng trong game",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/gift-4.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/gift-5.jpg",
+                "instruction": "<span style='color: red; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra trong game để biết chi tiết các vật phẩm nhận được từ gói nạp</span>",
+                "product_name": "1980 Quà hiện kim",
+                "product_id": 17,
+                "price": 700000
+            },
+            "18": {
+                "description": "Nạp 1,000,000 để nhận được vật phẩm tương ứng trong game",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/gift-5.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/gift-6.jpg",
+                "instruction": "<span style='color: red; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra trong game để biết chi tiết các vật phẩm nhận được từ gói nạp</span>",
+                "product_name": "2880 Quà hiện kim",
+                "product_id": 18,
+                "price": 1000000
+            },
+            "19": {
+                "description": "Nạp 1,100,000 để nhận được vật phẩm tương ứng trong game",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/gift-5.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/gift-7.jpg",
+                "instruction": "<span style='color: red; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra trong game để biết chi tiết các vật phẩm nhận được từ gói nạp</span>",
+                "product_name": "3280 Quà hiện kim",
+                "product_id": 19,
+                "price": 1100000
+            },
+            "20": {
+                "description": "Nạp 2,200,000 để nhận được vật phẩm tương ứng trong game",
+                "enable": true,
+                "group_id": "G2",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/gift-6.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/gift-8.jpg",
+                "instruction": "<span style='color: red; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra trong game để biết chi tiết các vật phẩm nhận được từ gói nạp</span>",
+                "product_name": "6480 Quà hiện kim",
+                "product_id": 20,
+                "price": 2200000
+            }
+        }
+    },
+    {
+        "app_id": 65640,
+        "group_id": "G3",
+        "group_name": "Gói đặc biệt",
+        "products": {
+            "2": {
+                "description": "Nhận ngay 280 Nguyên Bảo, mỗi ngày nhận 100 Nguyên Bảo trong vòng 30 ngày.",
+                "enable": true,
+                "group_id": "G3",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/monthly-pass.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/monthly-pass.jpg",
+                "instruction": "",
+                "product_name": "Thẻ tháng",
+                "product_id": 2,
+                "price": 200000
+            },
+            "6": {
+                "description": "Nhận ngay 2800 Nguyên Bảo, mỗi ngày nhận 100 Nguyên Bảo trong vòng 1 năm.",
+                "enable": true,
+                "group_id": "G3",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/yearly-pass.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/yearly-pass.jpg",
+                "instruction": "",
+                "product_name": "Thẻ năm",
+                "product_id": 6,
+                "price": 1000000
+            },
+            "10": {
+                "description": "Sau khi mua Quỹ Phúc Lợi đạt nhiều điều kiện sẽ nhận được thêm nhiều Nguyên Bảo tương ứng.",
+                "enable": true,
+                "group_id": "G3",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/benefit.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/benefit.jpg",
+                "instruction": "",
+                "product_name": "Quỹ",
+                "product_id": 10,
+                "price": 700000
+            },
+            "11": {
+                "description": "Sau khi mua Khiêu Chiến Lệnh Vàng làm nhiệm vụ nhận EXP và mở khóa các vật phẩm có giá trị theo từng cấp.",
+                "enable": true,
+                "group_id": "G3",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/challenge-ticket-gold.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/challenge-ticket-gold.jpg",
+                "instruction": "",
+                "product_name": "Tứ thiện",
+                "product_id": 11,
+                "price": 500000
+            },
+            "12": {
+                "description": "Sau khi mua Khiêu Chiến Lệnh Vàng - Hào Hoa làm nhiệm vụ nhận EXP và mở khóa các vật phẩm có giá trị theo từng cấp. (Cần mua Khiêu Chiến Lệnh Vàng trước mới có thể mua Hào Hoa)",
+                "enable": true,
+                "group_id": "G3",
+                "iap_image": "https://h5.zadn.vn/games/vlg/payment-iap-package/challenge-ticket-gold-2.jpg",
+                "image": "https://h5.zadn.vn/games/vlg/payment-package/challenge-ticket-gold-2.jpg",
+                "instruction": "<span style='color: #22a0ea; font-weight: 700;'>Hoàng thượng vui lòng kiểm tra đã mua Khiêu chiến lệnh vàng trước khi mua gói này. Lưu ý: Hệ thống sẽ quy đổi ra 682 Nguyên Bảo nếu trước đó chưa mua Khiêu chiến lệnh vàng.</span>",
+                "product_name": "Tứ thiện",
+                "product_id": 12,
+                "price": 500000
+            }
+        }
+    }
+]

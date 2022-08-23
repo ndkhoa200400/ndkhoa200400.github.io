@@ -1,0 +1,99 @@
+{
+  "sms": {
+    "id": 2,
+    "name": "SMS",
+    "desc": "Tỉ lệ quy đổi point tùy theo nhà mạng",
+    "type": "sms",
+    "paymentMethods": [{
+      "provideId": "53",
+      "provideName":"Viettel",
+      "desc": "Chỉ áp dụng cho thuê bao Viettel trả trước",
+      "enable": 1
+    },
+    {
+      "provideId": "65",
+      "provideName":"Mobifone",
+      "desc": "",
+      "enable": 1
+    },
+    {
+      "provideId": "60",
+      "provideName":"Vinaphone",
+      "desc": "",
+      "enable": 1
+    }],
+    "enable": 1,
+    "displayConditions": "outapp",
+    "order": 5
+  },
+  "card": {
+    "id": 3,
+    "name": "Thẻ Zing",
+    "desc": "",
+    "type": "card",
+    "paymentMethods":[{
+      "provideId": "1",
+      "provideName":"Thẻ Zing",
+      "desc": "",
+      "enable": 1
+    }],
+    "enable": 1,
+    "displayConditions": "outapp",
+    "order": 2
+  },
+  "bank": {
+    "id": 4,
+    "name": "ATM / Thẻ Ngân Hàng",
+    "desc": "",
+    "type": "bank",
+    "paymentMethods":[],
+    "enable": 1,
+    "displayConditions": "outapp",
+    "order": 3
+  },
+  "credit": {
+    "id": 0,
+    "name": "Credit Card",
+    "desc": "",
+    "type": "credit",
+    "paymentMethods":[{
+      "provideId": "CC",
+      "provideName":"Thẻ tín dụng",
+      "desc": "",
+      "enable": 1
+    }],
+    "enable": 1,
+    "displayConditions": "outapp",
+    "order": 4
+  },
+  "e-wallet": {
+    "id": 5,
+    "name": "E-Wallet",
+    "desc": "",
+    "type": "e-wallet",
+    "paymentMethods":[{
+      "provideId": "38",
+      "provideName":"ZaloPay",
+      "desc": "",
+      "enable": 1
+    }],
+    "enable": 1,
+    "displayConditions": "outapp",
+    "order": 1
+  },
+  "google-play": {
+    "id": 6,
+    "name": "GooglePlay",
+    "desc": "",
+    "type": "google-play",
+    "paymentMethods":[{
+      "provideId": "220",
+      "provideName":"GooglePlay",
+      "desc": "",
+      "enable": 1
+    }],
+    "enable": 1,
+    "displayConditions": "inapp",
+    "order": 6
+  }
+}

@@ -1,0 +1,664 @@
+{
+  "G1": {
+    "groupId": "G1",
+    "groupName": "Gói Thường",
+    "products": {
+      "1": {
+        "id": "1",
+        "name": "80 Nguyên Bảo",
+        "prices": {
+          "sms": {
+            "53": 50000,
+            "65": 50000
+          },
+          "card": {
+            "1": 20000
+          },
+          "bank": {
+            "default": 20000
+          },
+          "credit": {
+            "CC": 20000
+          },
+          "e-wallet": {
+            "38": 20000
+          },
+          "google-play": {
+            "220": 30000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>X2 nạp lần đầu: 80 Nguyên Bảo + 80 Nguyên Bảo.</br>Tặng 80 điểm VIP.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45253",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45296"
+      },
+      "2":{
+        "id": "2",
+        "name": "200 Nguyên Bảo",
+        "prices": {
+          "sms": {
+            "53": 100000,
+            "65": 100000
+          },
+          "card": {
+            "1": 50000
+          },
+          "bank": {
+            "default": 50000
+          },
+          "credit": {
+            "CC": 50000
+          },
+          "e-wallet": {
+            "38": 50000
+          },
+          "google-play": {
+            "220": 75000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>X2 nạp lần đầu: 200 Nguyên Bảo + 200 Nguyên Bảo.</span></br><span style='color: #22a0ea; font-weight: 700;'>Tặng 200 điểm VIP.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45254",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45277"
+      },
+      "3":{
+        "id": "3",
+        "name": "400 Nguyên Bảo",
+        "prices": {
+          "sms": {
+            "53": 200000,
+            "65": 200000
+          },
+          "card": {
+            "1": 100000
+          },
+          "bank": {
+            "default": 100000
+          },
+          "credit": {
+            "CC": 100000
+          },
+          "e-wallet": {
+            "38": 100000
+          },
+          "google-play": {
+            "220": 150000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>X2 nạp lần đầu: 400 Nguyên Bảo + 400 Nguyên Bảo.</span></br><span style='color: #22a0ea; font-weight: 700;'>Tặng 400 điểm VIP.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45255",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45278"
+      },
+      "4":{
+        "id": "4",
+        "name": "800 Nguyên Bảo",
+        "prices": {
+          "sms": {
+            "53": 500000,
+            "65": 500000
+          },
+          "card": {
+            "1": 200000
+          },
+          "bank": {
+            "default": 200000
+          },
+          "credit": {
+            "CC": 200000
+          },
+          "e-wallet": {
+            "38": 200000
+          },
+          "google-play": {
+            "220": 300000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>X2 nạp lần đầu: 800 Nguyên Bảo + 800 Nguyên Bảo.</span></br><span style='color: #22a0ea; font-weight: 700;'>Tặng 800 điểm VIP.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45256",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45279"
+      },
+      "5":{
+        "id": "5",
+        "name": "2000 Nguyên Bảo",
+        "prices": {
+          "card": {
+            "1": 500000
+          },
+          "bank": {
+            "default": 500000
+          },
+          "credit": {
+            "CC": 500000
+          },
+          "e-wallet": {
+            "38": 500000
+          },
+          "google-play": {
+            "220": 750000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>X2 nạp lần đầu: 2.000 Nguyên Bảo + 2.000 Nguyên Bảo.</span></br><span style='color: #22a0ea; font-weight: 700;'>Tặng 2.000 điểm VIP.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45257",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45280"
+      },
+      "6":{
+        "id": "6",
+        "name": "4000 Nguyên Bảo",
+        "prices": {
+          "card": {
+            "1": 1000000
+          },
+          "bank": {
+            "default": 1000000
+          },
+          "credit": {
+            "CC": 1000000
+          },
+          "e-wallet": {
+            "38": 1000000
+          },
+          "google-play": {
+            "220": 1500000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>X2 nạp lần đầu: 4.000 Nguyên Bảo + 4.000 Nguyên Bảo.</span></br><span style='color: #22a0ea; font-weight: 700;'>Tặng 4.000 điểm VIP.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45258",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45281"
+      },
+      "7":{
+        "id": "7",
+        "name": "8000 Nguyên Bảo",
+        "prices": {
+          "card": {
+            "1": 2000000
+          },
+          "bank": {
+            "default": 2000000
+          },
+          "credit": {
+            "CC": 2000000
+          },
+          "e-wallet": {
+            "38": 2000000
+          },
+          "google-play": {
+            "220": 3000000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>X2 nạp lần đầu: 8.000 Nguyên Bảo + 8,000 Nguyên Bảo.</span></br><span style='color: #22a0ea; font-weight: 700;'>Tặng 8.000 điểm VIP.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45259",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45282"
+      },
+      "8":{
+        "id": "8",
+        "name": "20000 Nguyên Bảo",
+        "prices": {
+          "card": {
+            "1": 5000000
+          },
+          "bank": {
+            "default": 5000000
+          },
+          "credit": {
+            "CC": 5000000
+          },
+          "e-wallet": {
+            "38": 5000000
+          },
+          "google-play": {
+            "220": 7500000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>X2 nạp lần đầu: 20.000 Nguyên Bảo + 20.000 Nguyên Bảo.</span></br><span style='color: #22a0ea; font-weight: 700;'>Tặng 20.000 điểm VIP.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45260",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45283"
+      }
+    }
+  },
+  "G2": {
+    "groupId": "G2",
+    "groupName": "Gói Đầu Tư",
+    "products": {
+      "101": {
+        "id": "101",
+        "name": "Quỹ trưởng thành",
+        "prices": {
+          "sms": {
+            "53": 200000,
+            "65": 200000
+          },
+          "card": {
+            "1": 100000
+          },
+          "bank": {
+            "default": 100000
+          },
+          "credit": {
+            "CC": 100000
+          },
+          "e-wallet": {
+            "38": 100000
+          },
+          "google-play": {
+            "220": 150000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>Đạt VIP 6 để mua kích hoạt Quỹ Trưởng Thành. Sau khi kích hoạt, hoàn thành mục tiêu chỉ định để nhận thưởng. Tổng nhận 12.000 Nguyên Bảo</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45275",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45297"
+      },
+      "201": {
+        "id": "201",
+        "name": "Thẻ Tuần Vàng",
+        "prices": {
+          "sms": {
+            "53": 200000,
+            "65": 200000
+          },
+          "card": {
+            "1": 100000
+          },
+          "bank": {
+            "default": 100000
+          },
+          "credit": {
+            "CC": 100000
+          },
+          "e-wallet": {
+            "38": 100000
+          },
+          "google-play": {
+            "220": 150000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tuần để nhận quà tặng trong 7 ngày:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 400 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận 100 Vàng mỗi ngày.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45262",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45285"
+      },
+      "202": {
+        "id": "202",
+        "name": "Thẻ Tháng Vàng",
+        "prices": {
+          "sms": {
+            "53": 500000,
+            "65": 500000
+          },
+          "card": {
+            "1": 200000
+          },
+          "bank": {
+            "default": 200000
+          },
+          "credit": {
+            "CC": 200000
+          },
+          "e-wallet": {
+            "38": 200000
+          },
+          "google-play": {
+            "220": 300000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tháng để nhận quà tặng trong 30 ngày:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 800 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận 100 Vàng mỗi ngày.</span>  ",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45265",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45288"
+      },
+      "203": {
+        "id": "203",
+        "name": "Thẻ Tuần Thể lực",
+        "prices": {
+          "sms": {
+            "53": 200000,
+            "65": 200000
+          },
+          "card": {
+            "1": 100000
+          },
+          "bank": {
+            "default": 100000
+          },
+          "credit": {
+            "CC": 100000
+          },
+          "e-wallet": {
+            "38": 100000
+          },
+          "google-play": {
+            "220": 150000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tuần để nhận quà tặng trong 7 ngày:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 400 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận 50 Thể Lực mỗi ngày.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45263",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45286"
+      },
+      "204": {
+        "id": "204",
+        "name": "Thẻ  Tháng Thể lực",
+        "prices": {
+          "sms": {
+            "53": 500000,
+            "65": 500000
+          },
+          "card": {
+            "1": 200000
+          },
+          "bank": {
+            "default": 200000
+          },
+          "credit": {
+            "CC": 200000
+          },
+          "e-wallet": {
+            "38": 200000
+          },
+          "google-play": {
+            "220": 300000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tháng để nhận quà tặng trong 30 ngày:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 800 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận 50 Thể Lực mỗi ngày.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45266",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45289"
+      },
+      "205": {
+        "id": "205",
+        "name": "Thẻ Tuần Hành Quân Lệnh ",
+        "prices": {
+          "sms": {
+            "53": 200000,
+            "65": 200000
+          },
+          "card": {
+            "1": 100000
+          },
+          "bank": {
+            "default": 100000
+          },
+          "credit": {
+            "CC": 100000
+          },
+          "e-wallet": {
+            "38": 100000
+          },
+          "google-play": {
+            "220": 150000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tuần để nhận quà tặng trong 7 ngày:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 400 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận 10 Lệnh Hành Quân mỗi ngày.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45264",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45287"
+      },
+      "206": {
+        "id": "206",
+        "name": "Thẻ Tháng Hành Quân Lệnh",
+        "prices": {
+          "sms": {
+            "53": 500000,
+            "65": 500000
+          },
+          "card": {
+            "1": 200000
+          },
+          "bank": {
+            "default": 200000
+          },
+          "credit": {
+            "CC": 200000
+          },
+          "e-wallet": {
+            "38": 200000
+          },
+          "google-play": {
+            "220": 300000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tháng để nhận quà tặng trong 30 ngày:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 800 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận 10 Lệnh Hành Quân mỗi ngày.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45267",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45290"
+      },
+      "207": {
+        "id": "207",
+        "name": "Thẻ Tuần KNB",
+        "prices": {
+          "sms": {
+            "53": 200000,
+            "65": 200000
+          },
+          "card": {
+            "1": 100000
+          },
+          "bank": {
+            "default": 100000
+          },
+          "credit": {
+            "CC": 100000
+          },
+          "e-wallet": {
+            "38": 100000
+          },
+          "google-play": {
+            "220": 150000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tuần để nhận quà tặng trong 7 ngày:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 400 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận thêm 100 Nguyên Bảo mỗi ngày.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45261",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45284"
+      },
+      "208": {
+        "id": "208",
+        "name": "Thẻ Tháng KNB",
+        "prices": {
+          "sms": {
+            "53": 500000,
+            "65": 500000
+          },
+          "card": {
+            "1": 200000
+          },
+          "bank": {
+            "default": 200000
+          },
+          "credit": {
+            "CC": 200000
+          },
+          "e-wallet": {
+            "38": 200000
+          },
+          "google-play": {
+            "220": 300000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tháng để nhận quà tặng trong 30 ngày:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 800 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận thêm 100 Nguyên Bảo mỗi ngày.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45268",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45291"
+      },
+      "209": {
+        "id": "209",
+        "name": "Thẻ Chí Tôn Vĩnh Viễn",
+        "prices": {
+          "card": {
+            "1": 500000
+          },
+          "bank": {
+            "default": 500000
+          },
+          "credit": {
+            "CC": 500000
+          },
+          "e-wallet": {
+            "38": 500000
+          },
+          "google-play": {
+            "220": 750000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>Mua Thẻ Tôn Quý để nhận quà tặng vĩnh viễn:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận ngay 2,000 Nguyên Bảo sau khi mua.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Nhận thêm 100 Nguyên Bảo mỗi ngày (thời hạn vĩnh viễn).</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45274",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45295"
+      }
+    }
+  },
+  "G3": {
+    "groupId": "G3",
+    "groupName": "Gói Hạn Giờ",
+    "products": {
+      "231": {
+        "id": "231",
+        "name": "Ưu đãi mỗi ngày 1",
+        "prices": {
+          "sms": {
+            "53": 20000,
+            "65": 20000
+          },
+          "bank": {
+            "default": 15000
+          },
+          "credit": {
+            "CC": 15000
+          },
+          "e-wallet": {
+            "38": 15000
+          },
+          "google-play": {
+            "220": 22000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>Quà tặng: 60 Nguyên Bảo, 1 Tướng Ngọc, 2 Rương Mảnh Tướng, 10 Tăng Bặc Đơn, 20 Thể Lực.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Quà sẽ tặng kèm qua Thư.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Không áp dụng cho hoạt động Nạp Tích Lũy, Vòng Quay Nạp, Nạp Hoàn Trả.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45269",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45298"
+      },
+      "232": {
+        "id": "232",
+        "name": "Ưu đãi mỗi ngày 2",
+        "prices": {
+          "sms": {
+            "53": 100000,
+            "65": 100000
+          },
+          "card": {
+            "1": 50000
+          },
+          "bank": {
+            "default": 50000
+          },
+          "credit": {
+            "CC": 50000
+          },
+          "e-wallet": {
+            "38": 50000
+          },
+          "google-play": {
+            "220": 75000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>Quà tặng: 200 Nguyên Bảo, 3 Tướng Ngọc, 2 Rương Mảnh Tướng, 20 Tăng Bặc Đơn, 50 Thể Lực.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Quà sẽ tặng kèm qua Thư</span></br><span style='color: #22a0ea; font-weight: 700;'>- Không áp dụng cho hoạt động Nạp Tích Lũy, Vòng Quay Nạp, Nạp Hoàn Trả.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45270",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45292"
+      },
+      "233": {
+        "id": "233",
+        "name": "Ưu đãi mỗi ngày 3",
+        "prices": {
+          "sms": {
+            "53": 500000,
+            "65": 500000
+          },
+          "card": {
+            "1": 200000
+          },
+          "bank": {
+            "default": 200000
+          },
+          "credit": {
+            "CC": 200000
+          },
+          "e-wallet": {
+            "38": 200000
+          },
+          "google-play": {
+            "220": 300000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>Quà tặng: 800 Nguyên Bảo, 9 Tướng Ngọc, 5 Rương Mảnh Tướng, 50 Tăng Bặc Đơn, 100 Thể Lực, 20 Hành Quân Lệnh.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Quà sẽ tặng kèm qua Thư.</span></br><span style='color: #22a0ea; font-weight: 700;'>- Không áp dụng cho hoạt động Nạp Tích Lũy, Vòng Quay Nạp, Nạp Hoàn Trả.</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45271",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45293"
+      },
+      "601": {
+        "id": "601",
+        "name": "Tăng bậc Chiến Lệnh - Phổ Thông",
+        "prices": {
+          "sms": {
+            "53": 200000,
+            "65": 200000
+          },
+          "card": {
+            "1": 100000
+          },
+          "bank": {
+            "default": 100000
+          },
+          "credit": {
+            "CC": 100000
+          },
+          "e-wallet": {
+            "38": 100000
+          },
+          "google-play": {
+            "220": 150000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>Quà tặng Lệnh Tiến Cấp:</span></br><span style='color: #22a0ea; font-weight: 700;'>- Thưởng mở khóa Lệnh Tăng Bậc</span></br><span style='color: #22a0ea; font-weight: 700;'>- Exp Chiến Lệnh x1000</span></br><span style='color: #22a0ea; font-weight: 700;'>- Tướng Lệnh Cao x1</span></br><span style='color: #22a0ea; font-weight: 700;'>- Rương Tài Nguyên Tím x1</span></br><span style='color: #22a0ea; font-weight: 700;'>- Tăng Bậc Đơn x50</span></br><span style='color: #22a0ea; font-weight: 700;'>- Hành Quân Lệnh x5</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45272",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45276"
+      },
+      "602": {
+        "id": "602",
+        "name": "Tăng bậc Chiến Lệnh - Cao Cấp",
+        "prices": {
+          "sms": {
+            "53": 500000,
+            "65": 500000
+          },
+          "card": {
+            "1": 200000
+          },
+          "bank": {
+            "default": 200000
+          },
+          "credit": {
+            "CC": 200000
+          },
+          "e-wallet": {
+            "38": 200000
+          },
+          "google-play": {
+            "220": 300000
+          }
+        },
+        "description": "<span style='color: #22a0ea; font-weight: 700;'>Quà tặng Lệnh Tiến Cấp quý hiếm: </span></br><span style='color: #22a0ea; font-weight: 700;'>- Thưởng mở khóa Lệnh Tăng Bậc </span></br><span style='color: #22a0ea; font-weight: 700;'>- Exp Chiến Lệnh x3000 </span></br><span style='color: #22a0ea; font-weight: 700;'>- Tướng Lệnh Cao x3 </span></br><span style='color: #22a0ea; font-weight: 700;'>- Rương Tài Nguyên Vàng x1 </span></br><span style='color: #22a0ea; font-weight: 700;'>- Tăng Bậc Đơn x200 </span></br><span style='color: #22a0ea; font-weight: 700;'>- Hành Quân Lệnh x20</span>",
+        "instruction": "",
+        "image":"https://photo.gamecenter.zdn.vn/45273",
+        "iapImage": "https://photo.gamecenter.zdn.vn/45294"
+      }
+    }
+  }
+}

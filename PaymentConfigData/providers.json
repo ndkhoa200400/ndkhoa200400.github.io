@@ -1,0 +1,37 @@
+[
+    {
+        "_id": "53",
+        "desc": "Chỉ áp dụng cho thuê bao Viettel trả trước",
+        "provide_name": "Viettel"
+    },
+    {
+        "_id": "65",
+        "desc": "",
+        "provide_name": "Mobifone"
+    },
+    {
+        "_id": "60",
+        "desc": "",
+        "provide_name": "Vinaphone"
+    },
+    {
+        "_id": "1",
+        "desc": "",
+        "provide_name": "Thẻ Zing"
+    },
+    {
+        "_id": "CC",
+        "desc": "",
+        "provide_name": "Thẻ tín dụng"
+    },
+    {
+        "_id": "38",
+        "desc": "",
+        "provide_name": "ZaloPay"
+    },
+    {
+        "_id": "220",
+        "desc": "",
+        "provide_name": "GooglePlay"
+    }
+]
