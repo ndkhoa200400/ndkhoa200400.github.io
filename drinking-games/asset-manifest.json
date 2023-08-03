@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/drinking-games/static/css/main.27912e82.css",
-    "main.js": "/drinking-games/static/js/main.454e4c3c.js",
+    "main.css": "/drinking-games/static/css/main.a29b00e3.css",
+    "main.js": "/drinking-games/static/js/main.3b5d6845.js",
     "static/js/787.e8a383c9.chunk.js": "/drinking-games/static/js/787.e8a383c9.chunk.js",
     "static/media/kiss.png": "/drinking-games/static/media/kiss.2de3f2f46c3ac2180c50.png",
     "index.html": "/drinking-games/index.html",
-    "main.27912e82.css.map": "/drinking-games/static/css/main.27912e82.css.map",
-    "main.454e4c3c.js.map": "/drinking-games/static/js/main.454e4c3c.js.map",
+    "main.a29b00e3.css.map": "/drinking-games/static/css/main.a29b00e3.css.map",
+    "main.3b5d6845.js.map": "/drinking-games/static/js/main.3b5d6845.js.map",
     "787.e8a383c9.chunk.js.map": "/drinking-games/static/js/787.e8a383c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27912e82.css",
-    "static/js/main.454e4c3c.js"
+    "static/css/main.a29b00e3.css",
+    "static/js/main.3b5d6845.js"
   ]
 }
