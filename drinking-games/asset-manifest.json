@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/drinking-games/static/css/main.a29b00e3.css",
-    "main.js": "/drinking-games/static/js/main.3b5d6845.js",
+    "main.css": "/drinking-games/static/css/main.87b40ce5.css",
+    "main.js": "/drinking-games/static/js/main.ddd4984a.js",
     "static/js/787.e8a383c9.chunk.js": "/drinking-games/static/js/787.e8a383c9.chunk.js",
     "static/media/kiss.png": "/drinking-games/static/media/kiss.2de3f2f46c3ac2180c50.png",
+    "static/media/winking-face.png": "/drinking-games/static/media/winking-face.c3cca7759e4c3e9fbd85.png",
+    "static/media/kissing-face-with-closed-eyes.png": "/drinking-games/static/media/kissing-face-with-closed-eyes.1d876b4d89a2a4aecfd4.png",
+    "static/media/smiling-face-with-sunglasses.png": "/drinking-games/static/media/smiling-face-with-sunglasses.1104d318985bdc560093.png",
+    "static/media/smirking-face.png": "/drinking-games/static/media/smirking-face.a0940d41e22fb489f56f.png",
+    "static/media/ring.png": "/drinking-games/static/media/ring.d803698b8fdbbf030df7.png",
     "index.html": "/drinking-games/index.html",
-    "main.a29b00e3.css.map": "/drinking-games/static/css/main.a29b00e3.css.map",
-    "main.3b5d6845.js.map": "/drinking-games/static/js/main.3b5d6845.js.map",
+    "main.87b40ce5.css.map": "/drinking-games/static/css/main.87b40ce5.css.map",
+    "main.ddd4984a.js.map": "/drinking-games/static/js/main.ddd4984a.js.map",
     "787.e8a383c9.chunk.js.map": "/drinking-games/static/js/787.e8a383c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a29b00e3.css",
-    "static/js/main.3b5d6845.js"
+    "static/css/main.87b40ce5.css",
+    "static/js/main.ddd4984a.js"
   ]
 }
