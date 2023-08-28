@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/drinking-games/static/css/main.f1a3ca01.css",
-    "main.js": "/drinking-games/static/js/main.912452b7.js",
+    "main.js": "/drinking-games/static/js/main.aad7d7b4.js",
     "static/js/787.e8a383c9.chunk.js": "/drinking-games/static/js/787.e8a383c9.chunk.js",
     "static/media/wow.jpeg": "/drinking-games/static/media/wow.6fc10856f9d119ea9591.jpeg",
     "static/media/kiss-woman-man.png": "/drinking-games/static/media/kiss-woman-man.5e59d7f5371aaa45b464.png",
@@ -48,11 +48,11 @@
     "static/media/sunglasses.png": "/drinking-games/static/media/sunglasses.a0d15fc3861713abdb5c.png",
     "index.html": "/drinking-games/index.html",
     "main.f1a3ca01.css.map": "/drinking-games/static/css/main.f1a3ca01.css.map",
-    "main.912452b7.js.map": "/drinking-games/static/js/main.912452b7.js.map",
+    "main.aad7d7b4.js.map": "/drinking-games/static/js/main.aad7d7b4.js.map",
     "787.e8a383c9.chunk.js.map": "/drinking-games/static/js/787.e8a383c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1a3ca01.css",
-    "static/js/main.912452b7.js"
+    "static/js/main.aad7d7b4.js"
   ]
 }
